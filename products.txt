@@ -1,0 +1,32 @@
+[
+{
+"title": "The Dark Side of the Moon",
+"price": 499.99,
+"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Dark_Side_of_the_Moon_Cover.svg/1024px-The_Dark_Side_of_the_Moon_Cover.svg.png",
+"id": 1
+},
+{
+"title": "In Rainbows",
+"price": 599.99,
+"thumbnail": "https://canchageneral.com/wp-content/uploads/2017/10/rainbows.jpg",
+"id": 2
+},
+{
+"title": "Abbey Road",
+"price": 699.99,
+"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+"id": 3
+},
+{
+"title": "A Love Supreme",
+"price": 799.99,
+"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_961661-MLA50181955306_062022-O.webp",
+"id": 4
+},
+{
+"title": "Kind of Blue",
+"price": 899.99,
+"thumbnail": "https://m.media-amazon.com/images/I/51S-mTiKUaL._SX425_.jpg",
+"id": 5
+}
+]
